@@ -118,6 +118,9 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
+## Video Walkthrough
+https://drive.google.com/file/d/10VYIrwNx6QVbTFBY-IQNtNLMqsjMno2N/view
+
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
